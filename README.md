@@ -1,2 +1,10 @@
 # OpenSanta
-Update = no
+Update : v1.0
+first Beta.
+
+Update : V2.0
+Nothing.
+
+Update : V2.1
+New Ai Price 2.99$ or free
+Better system fixed Ai still same games
