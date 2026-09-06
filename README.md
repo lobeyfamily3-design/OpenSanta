@@ -1,0 +1,2 @@
+# OpenSanta
+Update = no
